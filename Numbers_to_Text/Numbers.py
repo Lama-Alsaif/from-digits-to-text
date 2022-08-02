@@ -365,7 +365,7 @@ class digitsToText:
                 num = str(num)
 
                 if num.find('.')>-1:
-                        value= numeric2Txt(num[: num.find('.')])+' فاصلة '+numeric2Txt(num[num.find('.')+1:] )
+                        value= self.numeric2Txt(num[: num.find('.')])+' فاصلة '+self.numeric2Txt(num[num.find('.')+1:] )
                         return value
 
                 elif len(num) == 1 : 
