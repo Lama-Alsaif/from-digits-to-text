@@ -5,9 +5,14 @@
 تدعم المكتبة جميع الاعداد إلى المئة تريليار "100000000000000000000000"
 
 
+
 This package is made to help convert natural numbers and decimal numbers to text in Arabic Saudi dialect. 
 
 It suppourts numbers up to sextillions “100000000000000000000000”.
+
+The method for this is numeric2Txt(), enter whatever number you wish within the range and it will convert it to text.
+
+Please note that this method only accepts numbers. hence, you can not tenter any letters or sympols. the *only* accepted sympol is the decimal or the dot "." .
 
 # Screenshots : Natural Numbers
 
