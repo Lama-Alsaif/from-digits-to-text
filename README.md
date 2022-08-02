@@ -4,6 +4,8 @@
 
 تدعم المكتبة جميع الاعداد إلى المئة تريليار "100000000000000000000000"
 
+ضع بالاعتبار ان  ()numeric2Txt
+تقبل اعداد فقط. بمعنى, لايمكنك ادخال اي حروف ورموز, الرمز الوحيد المسموح به هو النقطة "." كفاصلة عشرية.
 
 
 This package is made to help convert natural numbers and decimal numbers to text in Arabic Saudi dialect. 
